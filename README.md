@@ -1,2 +1,2 @@
 # QuantJourney
-# This repository tracks my quant journey and projects. Please feel free to use them and build your own strategies.
+# This repository documents my quantitative journey and projects. Please feel free to experiment with the codes and devise your own strategies.
