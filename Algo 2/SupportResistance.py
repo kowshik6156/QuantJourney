@@ -1,4 +1,5 @@
-# This is the second basic trading strategy
+# This is part of my quant journey series 
+# Second basic trading strategy
 # buy at support and sell at resistance
 # logic is explained along the code
 
