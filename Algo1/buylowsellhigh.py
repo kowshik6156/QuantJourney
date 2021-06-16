@@ -1,4 +1,5 @@
-# This is the first basic trading strategy
+# This is part of quant journey series 
+# First basic trading strategy
 # This strategy buys GOOG stock when the stock price is low and sells when the price is high
 # Signals are determined by the difference between two consecutive days.
 # If diff is negative, buy. If the difference is positive, sell.
