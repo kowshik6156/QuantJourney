@@ -1,5 +1,5 @@
 '''
-This file part of my quant journey series and this is a standalone code
+This file part of my quant journey series 
 
 In this project, we will explore monthly returns and timeseries charts. We will apply differencing to
 remove seasonality. Then we will do a test for stationarity and use ARIMA model for differencing and conversion of
